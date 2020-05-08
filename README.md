@@ -13,7 +13,7 @@ Download the executable through Github. Place the contents in a folder somewhere
 !! Windows Only !!
 ### Base Version(Applicable to most)
 [Main.exe](..//blob/master/base_input/exe/main.exe)
-[Main.exe](..//blob/master/base_input/exe/config.yml)
+[Config.yml](..//blob/master/base_input/exe/config.yml)
 ### Raw Input Version
 [Main.exe](../blob/master/raw_input_override/exe/main.exe)
-[Main.exe](../blob/master/raw_input_override/exe/run_mouse.exe)
+[Run_mouse.exe](../blob/master/raw_input_override/exe/run_mouse.exe)
