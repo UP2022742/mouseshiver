@@ -1,0 +1,13 @@
+# To change the sensitivty of the mouse change the option below.
+# The lower the number the most sensitive it is, shut up I can code.
+# after about 300 you will stop notice a difference but if you have
+# any balls what so ever you will go with a number below 20.
+mouse_adjustments:
+    MOUSE_SENSITIVTY: 300
+
+# You should't need to change this, this is only needed to be changed
+# if you have a super special microphone or you're lagging and I can
+# drop the sample rate ... better you get a better PC though, fuck you.
+audio_recorder:
+  HZ: 44100
+  SAMPLE_RATE: 0.05
