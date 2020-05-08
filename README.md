@@ -12,5 +12,5 @@ Download the executable through Github. Place the contents in a folder somewhere
 ## Download
 !! Windows Only !!
 ### Base Version(Applicable to most)
-
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
 ### Raw Input Version
