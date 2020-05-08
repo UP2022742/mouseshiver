@@ -16,9 +16,10 @@ Download both the main file and the config.
 <li>[Main.exe](..//blob/master/base_input/exe/main.exe)</li>
 <li>[Config.yml](..//blob/master/base_input/exe/config.yml)</li>
 </ul>
+
 ### Raw Input Version
 Download both the main file and the support.
 <ul>
-  <li>[Main.exe](../blob/master/raw_input_override/exe/main.exe)</li>
-  <li[Run_mouse.exe](../blob/master/raw_input_override/exe/run_mouse.exe)</li>
-                                                                        </ul>
+<li>[Main.exe](../blob/master/raw_input_override/exe/main.exe)</li>
+<li[Run_mouse.exe](../blob/master/raw_input_override/exe/run_mouse.exe)</li>
+</ul>
