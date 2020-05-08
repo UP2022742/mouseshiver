@@ -18,4 +18,4 @@ Download both the main file and the config.
 ### Raw Input Version
 Download both the main file and the support.
 <li>[Main.exe](../blob/master/raw_input_override/exe/main.exe)</li>
-<li[Run_mouse.exe](../blob/master/raw_input_override/exe/run_mouse.exe)</li>
+<li>[Run_mouse.exe](../blob/master/raw_input_override/exe/run_mouse.exe)</li>
