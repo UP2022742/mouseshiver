@@ -1,7 +1,7 @@
 # mouseshiver
 ## Intro
 What does the application do?
-Nothing fucking useful what so ever, it will find the most appropriate input negate any noise associated with the microphone then shake your mouse depending on how loud the input to your microphone is. The idea was that this would be intertaining in games especially competitive ones where precision is key and when you get tilted damn you get loud.
+Nothing useful what so ever, it will find the most appropriate input negate any noise associated with the microphone then shake your mouse depending on how loud the input to your microphone is. The idea was that this would be entertaining in games especially competitive ones where precision is key and once the individual is loud and tilted, the more inaccurate their aim will become.
 
 ## Variation
 There are two variations of this application, one written in python which is a simple mouse simulation. There is another written in C++ which bypasses the restrictions of Raw input. 
