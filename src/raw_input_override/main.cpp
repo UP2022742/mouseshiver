@@ -26,12 +26,13 @@ int main (int argc, char* argv[]) {
             POINT current_pos;
             int sample_rate = 44100;  
             int input_volume = atoi(argv[1]);
-            double sensitivity_factor = 0.001; // Change the sensitivty however much the mouse moves.
-            int new_x_operator; // Used to randomise operator or direction the cursor moves.s
+            double sensitivity_factor = 0.001;
+            int new_x_operator; 
             int new_y_operator;
 
-            // This is for testing purposes, lower number smoother but faster..
+            // Sync helper.
             Sleep(5);
+            
             // Find screen resolutions.
             double fScreenWidth=GetSystemMetrics( SM_CXSCREEN )-1;
             double fScreenHeight=GetSystemMetrics( SM_CYSCREEN )-1;
@@ -44,6 +45,7 @@ int main (int argc, char* argv[]) {
             if (define_y_operator == 1){ new_y_operator = 1; }
             if (define_y_operator == 2){ new_y_operator = -1; }
 
+            // Thought this would make a nice banner.
             double fx = new_x_operator * (input_volume * sensitivity_factor * (65535.0f/fScreenWidth));
             double fy = new_y_operator * (input_volume * sensitivity_factor * (65535.0f/fScreenHeight));
 
