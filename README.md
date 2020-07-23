@@ -11,4 +11,7 @@ Download the variation that is applicable to you. If you require this in a game 
   
 If you wish to download the executables you can simply go to the bin folder and download from the desired version. Then move all files to a folder. In regards to the ordinary version you can edit the YAML file to change the sensitivity to your liking whereas the override version doesn't yet have this functionality.  
   
-In order to run the application open a command prompt by typing. "Ctrl + R" then type "cmd" navigate to the folder in which the executable is located in and run the executable through the command "./main.exe"
+In order to run the application open a command prompt by typing. "Ctrl + R" then type "cmd" navigate to the folder in which the executable is located in and run the executable through the command 
+```
+./main.exe
+```
